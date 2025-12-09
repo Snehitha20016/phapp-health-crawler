@@ -1,0 +1,684 @@
+[
+  {
+    "source_url":"http:\/\/www.acphd.org",
+    "facility_name":"Health Department - www.acphd.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.alpinecountyca.gov\/552\/Health-Human-Services",
+    "facility_name":"Health Department - Health-Human-Services",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.amadorgov.org\/departments\/health-human-services",
+    "facility_name":"Health Department - health-human-services",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.cityofberkeley.info\/publichealth\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.buttecounty.net\/610\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/publichealth.calaverasgov.us\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.countyofcolusa.org\/99\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.cchealth.org",
+    "facility_name":"Health Department - www.cchealth.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.co.del-norte.ca.us\/departments\/publichealth",
+    "facility_name":"Health Department - publichealth",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.eldoradocounty.ca.gov\/Health-Well-Being\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.co.fresno.ca.us\/departments\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.countyofglenn.net\/dept\/health-human-services\/public-health\/welcome",
+    "facility_name":"Health Department - welcome",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.humboldtgov.org\/330\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.icphd.org\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.inyocounty.us\/public-health-and-prevention",
+    "facility_name":"Health Department - public-health-and-prevention",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/kernpublichealth.com\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.kcdph.com\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.lakecountyca.gov\/158\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.lassencounty.org\/dept\/public-health\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.longbeach.gov\/health\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/publichealth.lacounty.gov\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.maderacounty.com\/government\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.marinhhs.org\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.mariposacounty.org\/89\/Health-Services-Division",
+    "facility_name":"Health Department - Health-Services-Division",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.mendocinocounty.gov\/departments\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.co.merced.ca.us\/index.aspx?nid=82",
+    "facility_name":"Health Department - index.aspx?nid=82",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/publichealth.co.modoc.ca.us\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.monohealth.com",
+    "facility_name":"Health Department - www.monohealth.com",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.mtyhd.org",
+    "facility_name":"Health Department - www.mtyhd.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.countyofnapa.org\/156\/HHSA",
+    "facility_name":"Health Department - HHSA",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.mynevadacounty.com\/551\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.ochealthinfo.com\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.cityofpasadena.net\/PublicHealth\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.placer.ca.gov\/2863\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.plumascounty.us\/3219\/Plumas-County-Public-Health-Agency",
+    "facility_name":"Health Department - Plumas-County-Public-Health-Agency",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.rivcoph.org",
+    "facility_name":"Health Department - www.rivcoph.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/dhs.saccounty.net\/PUB\/Pages\/PUB-Home.aspx",
+    "facility_name":"Health Department - PUB-Home.aspx",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/hhsa.cosb.us\/public-health-2\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/wp.sbcounty.gov\/dph\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.sandiegocounty.gov\/hhsa\/programs\/phs\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.sfdph.org",
+    "facility_name":"Health Department - www.sfdph.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.sjcphs.org",
+    "facility_name":"Health Department - www.sjcphs.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.slocounty.ca.gov\/departments\/health-agency",
+    "facility_name":"Health Department - health-agency",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.smhealth.org",
+    "facility_name":"Health Department - www.smhealth.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.sbcphd.org",
+    "facility_name":"Health Department - www.sbcphd.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.sccphd.org",
+    "facility_name":"Health Department - www.sccphd.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.santacruzhealth.org",
+    "facility_name":"Health Department - www.santacruzhealth.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.shastacounty.gov\/health-human-services\/page\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/sierracounty.ca.gov\/269\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.co.siskiyou.ca.us\/publichealth",
+    "facility_name":"Health Department - publichealth",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.solanocounty.com\/depts\/ph\/default.asp",
+    "facility_name":"Health Department - default.asp",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.sonomacounty.ca.gov\/Health-Services\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.schsa.org",
+    "facility_name":"Health Department - www.schsa.org",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.suttercounty.org\/government\/county-departments\/health-and-human-services\/public-health",
+    "facility_name":"Health Department - public-health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"http:\/\/www.tehamacohealthservices.net",
+    "facility_name":"Health Department - www.tehamacohealthservices.net",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.trinitycounty.org\/HHS",
+    "facility_name":"Health Department - HHS",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/tchhsa.org\/eng\/public-health\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.tuolumnecounty.ca.gov\/250\/Public-Health",
+    "facility_name":"Health Department - Public-Health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/vchca.org\/public-health\/",
+    "facility_name":"Health Department - ",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.cityofvernon.org\/government\/health",
+    "facility_name":"Health Department - health",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.yolocounty.org\/health-human-services",
+    "facility_name":"Health Department - health-human-services",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  },
+  {
+    "source_url":"https:\/\/www.yuba.org\/departments\/health_and_human_services\/index.php",
+    "facility_name":"Health Department - index.php",
+    "phone":"(555) 123-4567",
+    "category":"CONTACT_INFO",
+    "health_topics":[
+      "vaccination",
+      "covid"
+    ],
+    "scraped_at":"2025-12-08T16:42:20.005194"
+  }
+]
